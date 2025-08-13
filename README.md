@@ -2,6 +2,8 @@
 
 > ONE - Oracle Next Education
 
+![preview](./.github/preview.png)
+
 Projeto construído através do curso de lógica de programação com JavaScript da Oracle Next Education.
 
 [🔗 Clique aqui para acessar](https://amigo-secreto-git-main-ryderxzs-projects.vercel.app/
@@ -21,5 +23,5 @@ Projeto construído através do curso de lógica de programação com JavaScript
 
 ## 📞 Contato
 
-- E-mail: victorgideao@gmail.com
+- E-mail: victorgideao01@gmail.com
 - [Linkedin](https://www.linkedin.com/in/gideão-victor)
