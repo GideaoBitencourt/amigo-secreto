@@ -6,8 +6,7 @@
 
 Projeto construído através do curso de lógica de programação com JavaScript da Oracle Next Education.
 
-[🔗 Clique aqui para acessar](https://amigo-secreto-git-main-ryderxzs-projects.vercel.app/
-)
+[🔗 Clique aqui para acessar](https://gideaobitencourt.github.io/amigo-secreto/)
 ##  💻 Tecnologias
 
 - JavaScript
