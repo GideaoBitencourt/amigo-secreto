@@ -2,7 +2,7 @@
     --color-primary: #4B69FD;
     --color-secondary: #FFF9EB;
     --color-tertiary: #C4C4C4;
-    --color-button: #fe652b;
+    --color-button: #ef5923;
     --color-button-hover: #e55720;
     --color-text: #444444;
     --color-white: #FFFFFF;
@@ -145,7 +145,7 @@ ul {
 /* Botão de sortear título */
 .button-draw {
     display: flex;
-    align-items: center;
+    align-items:center;
     width: 100%;
     padding: 10px 40px;
     color: var(--color-white);

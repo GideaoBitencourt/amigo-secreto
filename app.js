@@ -40,3 +40,10 @@ function sortearAmigo() {
         resultado.innerHTML = `<li>Amigo sorteado: ${amigoSorteado}</li>`;
     }
 }
+
+function reiniciarAmigoSecreto() {
+    pessoas = [];
+    document.getElementById("listaAmigos").innerHTML = "";
+    document.getElementById("resultado").textContent = "";
+    document.getElementById("amigo").focus();
+}
